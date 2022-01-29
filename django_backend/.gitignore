@@ -1,3 +1,5 @@
 /project/db.sqlite3
 /project/blog_post_images/*
 middlegroundblog/*
+.env
+/project/app/__pycache__/*

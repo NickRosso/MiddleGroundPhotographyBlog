@@ -1,0 +1,7 @@
+#activate venv
+source middlegroundblog/bin/activate
+
+pip install django
+
+python3 -m pip install --upgrade pip
+sudo apt-get install exiftool

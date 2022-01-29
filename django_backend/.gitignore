@@ -2,4 +2,4 @@
 /project/blog_post_images/*
 middlegroundblog/*
 .env
-/project/app/__pycache__/*
+*.pyc
